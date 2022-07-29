@@ -1,0 +1,99 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "author": "The Beatles",
+      "title": "Please Please me",
+      "year": 1963,
+      "cover": "https://m.media-amazon.com/images/I/819oEzz9axL._SL1500_.jpg",
+      "song": "https://open.spotify.com/embed/album/0jTGHV5xqHPvEcwL8f6YU5?utm_source=generator&theme=0"
+    },
+    {
+      "id": 3,
+      "author": "The Beatles",
+      "title": "A Hard Day´s Night",
+      "year": 1964,
+      "cover": "https://m.media-amazon.com/images/I/91VIeO-NmsL._SX466_.jpg",
+      "song": "https://open.spotify.com/embed/album/6wCttLq0ADzkPgtRnUihLV?utm_source=generator"
+    },
+    {
+      "id": 4,
+      "author": "The Beatles",
+      "title": "Beatles for Sale",
+      "year": 1964,
+      "cover": "https://m.media-amazon.com/images/I/81GqdQzQz8L._SX450_.jpg",
+      "song": "https://open.spotify.com/embed/album/1vANZV20H5B4Fk6yf7Ot9a?utm_source=generator"
+    },
+    {
+      "id": 5,
+      "author": "The Beatles",
+      "title": "Help!!",
+      "year": 1965,
+      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/QVGZCGMJMZH5LAKF6VRH6NTFO4.jpg",
+      "song": "https://open.spotify.com/embed/album/1Ye7yrA7vAlQnoooj8yDXb?utm_source=generator"
+    },
+    {
+      "id": 6,
+      "author": "The Beatles",
+      "title": "Rubber Soul",
+      "year": 1965,
+      "cover": "https://m.media-amazon.com/images/I/91ym3sMcvRL._SL1500_.jpg",
+      "song": "https://open.spotify.com/embed/album/50o7kf2wLwVmOTVYJOTplm?utm_source=generator"
+    },
+    {
+      "id": 7,
+      "author": "The Beatles",
+      "title": "Revolver",
+      "year": 1966,
+      "cover": "https://m.media-amazon.com/images/I/61u+rBYz7yL._SY355_.jpg",
+      "song": "https://open.spotify.com/embed/album/3PRoXYsngSwjEQWR5PsHWR?utm_source=generator"
+    },
+    {
+      "id": 8,
+      "author": "The Beatles",
+      "title": "Sgt.Pepper´s Lonely Hearts Club Band",
+      "year": 1967,
+      "cover": "https://m.media-amazon.com/images/I/61aOxiD+N6L._SX466_.jpg",
+      "song": "https://open.spotify.com/embed/album/6QaVfG1pHYl1z15ZxkvVDW?utm_source=generator"
+    },
+    {
+      "id": 9,
+      "author": "The Beatles",
+      "title": "Magical Mistery Tour",
+      "year": 1967,
+      "cover": "https://m.media-amazon.com/images/I/91LrXdPTwZL._SL1500_.jpg",
+      "song": "https://open.spotify.com/embed/album/2BtE7qm1qzM80p9vLSiXkj?utm_source=generator"
+    },
+    {
+      "title": "White Album",
+      "author": "The Beatles",
+      "cover": "https://m.media-amazon.com/images/I/21IVvn7zGAL.jpg",
+      "year": 1968,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "author": "The Beatles",
+      "title": "Yellow Submarine",
+      "year": 1969,
+      "cover": "https://m.media-amazon.com/images/I/91IaG+LrzmL._SL1500_.jpg",
+      "song": "https://open.spotify.com/embed/album/0XRZpF083HqgygM0v1hQyE?utm_source=generator"
+    },
+    {
+      "id": 12,
+      "author": "The Beatles",
+      "title": "Abbey Road",
+      "year": 1969,
+      "cover": "https://m.media-amazon.com/images/I/81sBKBIcwvL._SY355_.jpg",
+      "song": "https://open.spotify.com/embed/album/0ETFjACtuP2ADo6LFhL6HN?utm_source=generator"
+    },
+    {
+      "id": 13,
+      "author": "The Beatles",
+      "title": "Let It Be",
+      "year": 1970,
+      "cover": "https://m.media-amazon.com/images/I/81wQglJ7PyL._SL1500_.jpg",
+      "song": "https://open.spotify.com/embed/album/0jTGHV5xqHPvEcwL8f6YU5?utm_source=generator"
+    }
+  ]
+}
